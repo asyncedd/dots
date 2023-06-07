@@ -13,3 +13,11 @@ This is my dot files. Managed by [chezmoi](https://www.chezmoi.io/).
 - [Tmux](https://github.com/tmux/tmux)
 - [Wezterm](https://wezfurlong.org/wezterm/index.html)
 - [Firefox (CSS)](https://www.userchrome.org/)
+
+## ✨ Some good dots
+
+- [Neovim](https://github.com/asyncedd/dots/tree/master/dot_config/nvim)
+- [Fish](https://github.com/asyncedd/dots/tree/master/dot_config/fish)
+- [i3](https://github.com/asyncedd/dots/tree/master/dot_config/i3)
+- [Picom](https://github.com/asyncedd/dots/tree/master/dot_config/picom)
+- [Firefox (CSS)](https://github.com/asyncedd/dots/tree/master/private_dot_mozilla/private_firefox/private_4fdsf9r5.default-release/chrome)
