@@ -1,6 +1,6 @@
-feat(neogit): Make the BG a bit darker
+feat(oil): Make the directory checker better
 
-
+It can even load in oil-ssh!
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
@@ -8,5 +8,5 @@ feat(neogit): Make the BG a bit darker
 # Your branch is up to date with 'origin/master'.
 #
 # Changes to be committed:
-#	modified:   lua/plugins/configs/ui/catppuccin.lua
+#	modified:   lua/plugins/specs/tools.lua
 #
