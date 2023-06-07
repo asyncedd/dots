@@ -1,18 +1,11 @@
-feat(tmux-continuum): ✨ Initial commit
-
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
 # On branch master
-# Your branch is up to date with 'origin/master'.
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
 #
 # Changes to be committed:
-#	new file:   plugins/tmux
-#	new file:   plugins/tmux-continuum
-#	new file:   plugins/tmux-resurrect
-#	new file:   plugins/tmux-sensible
-#	new file:   plugins/tmux-yank
-#	new file:   plugins/tpm
-#	modified:   tmux.conf
+#	new file:   README.md
 #
