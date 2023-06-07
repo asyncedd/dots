@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 0e3e60df0c4831ab51facd6d26051b167bde0d3b Async <async@linux.(none)> 1685856673 +0900	clone: from https://github.com/asyncedd/i3-EndeavourOS
 0e3e60df0c4831ab51facd6d26051b167bde0d3b a458d3199d1a220eb01aa51dc8a14325572b1868 asyncedd <isynqquwu@proton.me> 1686087425 +0900	commit: feat(i3): ✨ Make it truly borderless
 a458d3199d1a220eb01aa51dc8a14325572b1868 ba6fac2ef722c9a2b0d051b0124c62500a936a8a asyncedd <isynqquwu@proton.me> 1686088627 +0900	commit: feat(picom): use experiment-backends
+ba6fac2ef722c9a2b0d051b0124c62500a936a8a 5cafcdf67be772099208cb04299a725d21381c59 asyncedd <isynqquwu@proton.me> 1686121520 +0900	commit: docs(README): 📝 Initial commit
