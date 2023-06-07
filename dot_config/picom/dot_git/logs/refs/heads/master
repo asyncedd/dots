@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 e4e666042454d8d773d47442c24b4522fdf80eb5 Async <async@linux.(none)> 1685858548 +0900	clone: from https://github.com/asyncedd/pi-dots
+e4e666042454d8d773d47442c24b4522fdf80eb5 ee91ba9614eebfa71573bf74c9b55a2a50719117 asyncedd <isynqquwu@proton.me> 1686088182 +0900	rebase (finish): refs/heads/master onto f8d3b6daf56f45d403390b44e368e17c3cb1799c
+ee91ba9614eebfa71573bf74c9b55a2a50719117 8703f60fb0a97d89de31e2d0f2f757c9aee509cd asyncedd <isynqquwu@proton.me> 1686088195 +0900	rebase (finish): refs/heads/master onto 8703f60fb0a97d89de31e2d0f2f757c9aee509cd
+8703f60fb0a97d89de31e2d0f2f757c9aee509cd 21a4d4e8bdc7c6eb97d7aa3d4afd31eff053b111 asyncedd <isynqquwu@proton.me> 1686088196 +0900	rebase (finish): refs/heads/master onto 21a4d4e8bdc7c6eb97d7aa3d4afd31eff053b111
+21a4d4e8bdc7c6eb97d7aa3d4afd31eff053b111 f8d3b6daf56f45d403390b44e368e17c3cb1799c asyncedd <isynqquwu@proton.me> 1686088197 +0900	rebase (finish): refs/heads/master onto f8d3b6daf56f45d403390b44e368e17c3cb1799c
+f8d3b6daf56f45d403390b44e368e17c3cb1799c 5a799b9476cd4bcf1f71d1eb3609a617b3166b63 asyncedd <isynqquwu@proton.me> 1686088502 +0900	commit: fix(jonabug): 🐛 Fix jonaburg
+5a799b9476cd4bcf1f71d1eb3609a617b3166b63 6d19961666da9d47e78f80903b3bc418289ff087 asyncedd <isynqquwu@proton.me> 1686088552 +0900	commit: fix(jonaburg): use --experimental-backends
+6d19961666da9d47e78f80903b3bc418289ff087 13180c4d94ba8f1425c402485126cce545ff98f2 asyncedd <isynqquwu@proton.me> 1686090190 +0900	commit: feat(picom): use ft-labs
+13180c4d94ba8f1425c402485126cce545ff98f2 ee3a599e23b39f7548c33466863c3bfdc0d29250 asyncedd <isynqquwu@proton.me> 1686090215 +0900	commit: fix(README): Fix the picom command
+ee3a599e23b39f7548c33466863c3bfdc0d29250 cb6246cfeac8d6d5690470ed95b1e5510ce2fdf3 asyncedd <isynqquwu@proton.me> 1686094967 +0900	commit: feat(picom): make fade slower and cleaner

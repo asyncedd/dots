@@ -1,0 +1,79 @@
+0000000000000000000000000000000000000000 20f07cee273823249d076786d248025a45e317fa Async <async@linux.(none)> 1685866023 +0900	clone: from github.com:asyncedd/dots.nvim
+20f07cee273823249d076786d248025a45e317fa 441995ffcdc19c23d7a451d9d7ee3e050149827b asyncedd <isynqquwu@proton.me> 1685870920 +0900	commit: fix(cmdline): 🐛 Remove buggy cmdline
+441995ffcdc19c23d7a451d9d7ee3e050149827b 17ac7bd36570319f8a4d1ddafd638596da78e003 asyncedd <isynqquwu@proton.me> 1685876459 +0900	commit: chore(lazy): 🔼 Sync lazy-lock
+17ac7bd36570319f8a4d1ddafd638596da78e003 f6008457a52ce93c9391b3b381e8e63b05f40194 asyncedd <isynqquwu@proton.me> 1685876902 +0900	commit: null-ls-mason: 🔥 Remove unneeded config file
+f6008457a52ce93c9391b3b381e8e63b05f40194 863062078d46627f6faac3986107c7519c1c79d7 asyncedd <isynqquwu@proton.me> 1685885783 +0900	commit: feat(python): 🐍 Polish the null-ls sources
+863062078d46627f6faac3986107c7519c1c79d7 484bb4f27963e61c00d1088ef2ea2018bce2bd43 asyncedd <isynqquwu@proton.me> 1685918026 +0900	commit: feat(nvim-dap-python): ✨ Initial commit
+484bb4f27963e61c00d1088ef2ea2018bce2bd43 ccf4d1974e37870b796deeff525d92afc5fe0dad asyncedd <isynqquwu@proton.me> 1685918178 +0900	commit: feat(pyright): ✨ Make pyright smarter
+ccf4d1974e37870b796deeff525d92afc5fe0dad 1b36391f3a81fa85a47799d0ee622096ecf8e5de asyncedd <isynqquwu@proton.me> 1685918410 +0900	commit: feat(rust-analyzer): Make it have all Cargo features
+1b36391f3a81fa85a47799d0ee622096ecf8e5de f62ddb8654f6eef91af69f503957b32856103045 asyncedd <isynqquwu@proton.me> 1685918584 +0900	commit: feat(nvim-dap-python): Enable a keymap
+f62ddb8654f6eef91af69f503957b32856103045 ba5ce9327e0e85f6692b1fe26f01c73cdf645721 asyncedd <isynqquwu@proton.me> 1685952341 +0900	commit: perf(nvim-treesitter-context): ✨ Remove
+ba5ce9327e0e85f6692b1fe26f01c73cdf645721 292d0fa3bcf1a74bf74ad69894e1006bc17638f6 asyncedd <isynqquwu@proton.me> 1685952591 +0900	commit: fix(rust-analyzer): 🐛 Fix it crashing
+292d0fa3bcf1a74bf74ad69894e1006bc17638f6 6da096a959cb1653b192860cb8b8455cfa030bff asyncedd <isynqquwu@proton.me> 1685953247 +0900	commit: feat(rust.vim): ✨ Initial commit
+6da096a959cb1653b192860cb8b8455cfa030bff 0261723d2e85a341f6a474331d35257a9bf26866 asyncedd <isynqquwu@proton.me> 1685953428 +0900	commit: style(rust.vim): 🎨 Move the config things into the right place
+0261723d2e85a341f6a474331d35257a9bf26866 ce39710491107f54ff91778cf9cf373082af4bb2 asyncedd <isynqquwu@proton.me> 1685956907 +0900	commit: perf(rust.vim): ⚡ Wrap the fn inside a vim.schedule
+ce39710491107f54ff91778cf9cf373082af4bb2 1b4c104fe1c25997ddd8f43b06d852d2069334b9 asyncedd <isynqquwu@proton.me> 1685958594 +0900	commit: feat(rust-tools): ✨ Initial commit
+1b4c104fe1c25997ddd8f43b06d852d2069334b9 9b34617f959790a02487ba4df1f1476e963bd228 asyncedd <isynqquwu@proton.me> 1685958633 +0900	commit: fix(rust-tools): 🐛 Fix it not working on first launch
+9b34617f959790a02487ba4df1f1476e963bd228 57709aea4305059cd72943a07f69bc3c393c4e8b asyncedd <isynqquwu@proton.me> 1685959390 +0900	commit: perf(nvim-ts-context-virtual): 🔥 Remove
+57709aea4305059cd72943a07f69bc3c393c4e8b 1bdface08197a407ede7e2b56e128e96c47bffee asyncedd <isynqquwu@proton.me> 1685960642 +0900	commit: feat(noice): ✨ Show more information in cmp documentations
+1bdface08197a407ede7e2b56e128e96c47bffee 066bceb45d88e9b82d18983495903ce942071aec asyncedd <isynqquwu@proton.me> 1685961460 +0900	commit: fix(rust-tools): 🐛 Add fancy auto-install thing: fixes: #141
+066bceb45d88e9b82d18983495903ce942071aec 586ff30fbd492278bc8e10c471a20a74d527f82c asyncedd <isynqquwu@proton.me> 1685962230 +0900	commit: fix(mason): ✏️ Fix typo
+586ff30fbd492278bc8e10c471a20a74d527f82c da2399dbe3c5390cce8c658068b7324e7c0c082d asyncedd <isynqquwu@proton.me> 1685962266 +0900	commit: fix(lspconfig): ✏️ Remove inperfect code
+da2399dbe3c5390cce8c658068b7324e7c0c082d 152b9edb6e7baab3185afd2e1d60b928d2b7bf28 asyncedd <isynqquwu@proton.me> 1685962286 +0900	commit (amend): fix(lspconfig): ✏️ Remove unplanned code
+152b9edb6e7baab3185afd2e1d60b928d2b7bf28 f59877df765f5e1ad5b8172d712b4d37e41c32fc asyncedd <isynqquwu@proton.me> 1685963411 +0900	commit: fix(rust-analyzer): fixes weird offset error, fixes #140
+f59877df765f5e1ad5b8172d712b4d37e41c32fc de67dcea45e75647ccf4530c42a67f66d1fda526 asyncedd <isynqquwu@proton.me> 1685963623 +0900	commit: fix(rust_anaylzer): 🐛 Don't set up rust_anaylzer, fixes #142
+de67dcea45e75647ccf4530c42a67f66d1fda526 1de0288d813d7f50e249bddac070063ca606107d asyncedd <isynqquwu@proton.me> 1685966613 +0900	commit: fix(nvim-dap-python): 🐛 Fix keymap not working
+1de0288d813d7f50e249bddac070063ca606107d 24860976e72c69ada724dfdb613930d76e50788f asyncedd <isynqquwu@proton.me> 1685967365 +0900	commit: feat(one-small-for-vimkind): ✨ Initial commit
+24860976e72c69ada724dfdb613930d76e50788f caffbbfa61106ce11c3ea795c09535d8dbbdbd2d asyncedd <isynqquwu@proton.me> 1685968583 +0900	commit: fix(one-small-step-for-vimkind): ✏️ Fix typo
+caffbbfa61106ce11c3ea795c09535d8dbbdbd2d 73a6a63a5bbd79c5d147da1009b539c2c782ca62 asyncedd <isynqquwu@proton.me> 1685968976 +0900	commit: feat(lsp-inlayhints): ✨ Initial commit
+73a6a63a5bbd79c5d147da1009b539c2c782ca62 1d91451ab8f5e2aacda72ff8da7fc8359fc23d41 asyncedd <isynqquwu@proton.me> 1685969520 +0900	rebase (finish): refs/heads/master onto 1de0288d813d7f50e249bddac070063ca606107d
+1d91451ab8f5e2aacda72ff8da7fc8359fc23d41 e8d82b7d4141db1b178e445004976b6f2b2f4530 asyncedd <isynqquwu@proton.me> 1685969547 +0900	rebase (finish): refs/heads/master onto 586ff30fbd492278bc8e10c471a20a74d527f82c
+e8d82b7d4141db1b178e445004976b6f2b2f4530 5ce44edb8d6ece641e08d3478a244b38d22f5b48 asyncedd <isynqquwu@proton.me> 1686000066 +0900	commit: feat(crates): ✨ Initial commit
+5ce44edb8d6ece641e08d3478a244b38d22f5b48 cfcda82f81bb8c108a35dc80ec54225bcedfacdd asyncedd <isynqquwu@proton.me> 1686000289 +0900	commit: feat(crates): ⚡ Store it inside a local variable
+cfcda82f81bb8c108a35dc80ec54225bcedfacdd 2858324ed4dfbe921cfb82ae536e770f6792b1f9 asyncedd <isynqquwu@proton.me> 1686001375 +0900	commit: feat(nvim-dap-go): ✨ Initial commit
+2858324ed4dfbe921cfb82ae536e770f6792b1f9 8d1629345b68b5563b6fda7d1a589d7f9a979ae8 asyncedd <isynqquwu@proton.me> 1686001585 +0900	commit: fix(gopher): ✨ Initial commit
+8d1629345b68b5563b6fda7d1a589d7f9a979ae8 7697e93abc8aa4a8a17702d180932787355bfd9b asyncedd <isynqquwu@proton.me> 1686003891 +0900	commit: feat(one-small-step-for-vimkind): ✨ Use ${port} over 8086
+7697e93abc8aa4a8a17702d180932787355bfd9b 71c36f56848bdbea52a9845239b6a2d9a7e8aa8b asyncedd <isynqquwu@proton.me> 1686004652 +0900	commit: feat(edgy): ✨ Initial commit
+71c36f56848bdbea52a9845239b6a2d9a7e8aa8b 7bba64bb6fcc66250bc6e9a25f62c50ba31ed27d asyncedd <isynqquwu@proton.me> 1686005437 +0900	commit: feat(bufferline): ✨ Fix offsets via edgy.nvim
+7bba64bb6fcc66250bc6e9a25f62c50ba31ed27d 9701cbd1fd859aadb5b87999a42c8b151b708119 asyncedd <isynqquwu@proton.me> 1686039055 +0900	commit: feat(edgy): ✨ Add a fancy folder icon for Neo-tree
+9701cbd1fd859aadb5b87999a42c8b151b708119 8e07b35ec91357a877edca3ed56d65d542fddc25 asyncedd <isynqquwu@proton.me> 1686039131 +0900	commit: feat(edgy): ✨ Add an animation for help files
+8e07b35ec91357a877edca3ed56d65d542fddc25 bf42cf90f0ca5d726c08bb5db5b7a2380958430f asyncedd <isynqquwu@proton.me> 1686039225 +0900	commit: feat(edgy): ✨ Spectre animations
+bf42cf90f0ca5d726c08bb5db5b7a2380958430f d3d21c7b9f5f814fb9ae8c8366d2dded979672c8 asyncedd <isynqquwu@proton.me> 1686040273 +0900	commit: fix(bufferline): 🐛 Use `optional` for the config
+d3d21c7b9f5f814fb9ae8c8366d2dded979672c8 4c304879397c0981475018802a24003eadd4f1dd asyncedd <isynqquwu@proton.me> 1686040391 +0900	commit: fix(neotree): 🐛 Dont replace file contents in edgy files
+4c304879397c0981475018802a24003eadd4f1dd 38e23ff846306ffd1582e294e0d9309c5a84569e asyncedd <isynqquwu@proton.me> 1686040462 +0900	commit: chore(lazy): 🔼 Sync lazy-lock
+38e23ff846306ffd1582e294e0d9309c5a84569e 72a9d42595a1510537993282602e786b1212780c asyncedd <isynqquwu@proton.me> 1686040989 +0900	commit: fix(bufferline): 🐛 Remove catppuccin integration
+72a9d42595a1510537993282602e786b1212780c 3f0c0832c8a665df3fc543b3d17f54b22548bf51 asyncedd <isynqquwu@proton.me> 1686041414 +0900	commit: perf(signautre): 🔥 Remove
+3f0c0832c8a665df3fc543b3d17f54b22548bf51 38d3ac4bf2f99c4653c0f9a74dbc5424221e01a4 asyncedd <isynqquwu@proton.me> 1686042152 +0900	commit: perf(codeium): 🔥 Remove
+38d3ac4bf2f99c4653c0f9a74dbc5424221e01a4 14622bce6171abd61b4acef167b1e654d69bf47b asyncedd <isynqquwu@proton.me> 1686042190 +0900	commit (amend): perf(codeium): 🔥 Remove codeium. #143
+14622bce6171abd61b4acef167b1e654d69bf47b 81372962c04da816610cb7b6bd90a849bb7f11d1 asyncedd <isynqquwu@proton.me> 1686042233 +0900	commit: perf(tabnine): 🔥 Remove Tabnine, #143
+81372962c04da816610cb7b6bd90a849bb7f11d1 621c8e0d5609c11d03125335d8ade7d580bd8167 asyncedd <isynqquwu@proton.me> 1686042305 +0900	commit: cmp: 🔥 Simplify logic
+621c8e0d5609c11d03125335d8ade7d580bd8167 0125702030c9bbc1c7e0b04463ac99826e53a948 asyncedd <isynqquwu@proton.me> 1686042377 +0900	commit (amend): cmp: 🔥 Simplify logic
+0125702030c9bbc1c7e0b04463ac99826e53a948 2c023fb5a1e16af0b25266c4b0a4d1df4a5b0ec8 asyncedd <isynqquwu@proton.me> 1686042387 +0900	commit: cmp: Use more defaults #143
+2c023fb5a1e16af0b25266c4b0a4d1df4a5b0ec8 16e97491b409ec9f63c160dc86f230f93c77cab3 asyncedd <isynqquwu@proton.me> 1686042409 +0900	rebase (finish): refs/heads/master onto 81372962c04da816610cb7b6bd90a849bb7f11d1
+16e97491b409ec9f63c160dc86f230f93c77cab3 c204bca7c0781895e1d60693b9887a2bc5e9393f asyncedd <isynqquwu@proton.me> 1686042508 +0900	commit: perf(wpm): 🔥 Remove fixes #143
+c204bca7c0781895e1d60693b9887a2bc5e9393f cc1f4448f242274a314248011d7ee14290e218b1 asyncedd <isynqquwu@proton.me> 1686042605 +0900	commit: cmp: 🔥 Remove unneeded code #143
+cc1f4448f242274a314248011d7ee14290e218b1 f5eda2306aece8a987dedf41df6c87d3330b3486 asyncedd <isynqquwu@proton.me> 1686042633 +0900	commit: cmp: 🔥 Remove unneeded code #143
+f5eda2306aece8a987dedf41df6c87d3330b3486 a92c382219ca528ec2c1027fb50f2976df885ffd asyncedd <isynqquwu@proton.me> 1686042653 +0900	commit: perf(cmp): 🔥 Remove unneeded import
+a92c382219ca528ec2c1027fb50f2976df885ffd 4562cc0347ed53e553bf79fcee8fad2c5b3abaed asyncedd <isynqquwu@proton.me> 1686042874 +0900	rebase (finish): refs/heads/master onto cc1f4448f242274a314248011d7ee14290e218b1
+4562cc0347ed53e553bf79fcee8fad2c5b3abaed f3a1b0fe7dc387855eb35f5bba83e1f35339ed4e asyncedd <isynqquwu@proton.me> 1686042875 +0900	rebase (finish): refs/heads/master onto c204bca7c0781895e1d60693b9887a2bc5e9393f
+f3a1b0fe7dc387855eb35f5bba83e1f35339ed4e 4950b2fcceda4920a2cda10d29ff44fef0968aea asyncedd <isynqquwu@proton.me> 1686042876 +0900	rebase (finish): refs/heads/master onto 16e97491b409ec9f63c160dc86f230f93c77cab3
+4950b2fcceda4920a2cda10d29ff44fef0968aea 63717d128cb1c52d6c56fa094981a82a39e9ae14 asyncedd <isynqquwu@proton.me> 1686042877 +0900	rebase (finish): refs/heads/master onto e60d68d10c40684285c5a8a1d896ac03c89da1c8
+63717d128cb1c52d6c56fa094981a82a39e9ae14 9f9b78e64611d556b834ace280a92979ae1d9fa5 asyncedd <isynqquwu@proton.me> 1686042877 +0900	rebase (finish): refs/heads/master onto 81372962c04da816610cb7b6bd90a849bb7f11d1
+9f9b78e64611d556b834ace280a92979ae1d9fa5 390952335acd26caef459acd64e1d947be1126de asyncedd <isynqquwu@proton.me> 1686042878 +0900	rebase (finish): refs/heads/master onto 14622bce6171abd61b4acef167b1e654d69bf47b
+390952335acd26caef459acd64e1d947be1126de 911670625822bbbdf3ee6677ed5b85eca6233c1b asyncedd <isynqquwu@proton.me> 1686042879 +0900	rebase (finish): refs/heads/master onto 3f0c0832c8a665df3fc543b3d17f54b22548bf51
+911670625822bbbdf3ee6677ed5b85eca6233c1b 3f0c0832c8a665df3fc543b3d17f54b22548bf51 asyncedd <isynqquwu@proton.me> 1686042882 +0900	rebase (finish): refs/heads/master onto 3f0c0832c8a665df3fc543b3d17f54b22548bf51
+3f0c0832c8a665df3fc543b3d17f54b22548bf51 72a9d42595a1510537993282602e786b1212780c asyncedd <isynqquwu@proton.me> 1686042886 +0900	rebase (finish): refs/heads/master onto 72a9d42595a1510537993282602e786b1212780c
+72a9d42595a1510537993282602e786b1212780c 634a61673189e14c423b0469b96c541e339b368b asyncedd <isynqquwu@proton.me> 1686043267 +0900	commit: fix(cmp): 🐛 TMP revert to 950d0e3 because of input lag
+634a61673189e14c423b0469b96c541e339b368b 4977d62236f2668a74ce7e9be7cb16d9e5572a66 asyncedd <isynqquwu@proton.me> 1686043360 +0900	commit: perf(neodev): 🔥 Remove unneeded plugins
+4977d62236f2668a74ce7e9be7cb16d9e5572a66 ad3abf3c40a774fde3c8539cb017bf76e8c8ac5a asyncedd <isynqquwu@proton.me> 1686043769 +0900	commit: perf(lsp-inlayhints): 🔥 Remove
+ad3abf3c40a774fde3c8539cb017bf76e8c8ac5a 25350efcb59e1928692f12563b0848452b2f3186 asyncedd <isynqquwu@proton.me> 1686044218 +0900	commit: feat(alpha): ✨ Add a fancy dashboard
+25350efcb59e1928692f12563b0848452b2f3186 bb969ab575bbbec9b096af459a063142e401ef85 asyncedd <isynqquwu@proton.me> 1686044349 +0900	commit: refactor: Reduce LOC
+bb969ab575bbbec9b096af459a063142e401ef85 3c76d12e3b3c6337f449dd36146b81461c4b074e asyncedd <isynqquwu@proton.me> 1686087812 +0900	commit: perf(trailblazer): 🔥 Remove
+3c76d12e3b3c6337f449dd36146b81461c4b074e 14252b910dd2e30496177163dd77e70234973d60 asyncedd <isynqquwu@proton.me> 1686087856 +0900	commit: chore(lazy): 🔼 Sync lazy-lock
+14252b910dd2e30496177163dd77e70234973d60 18fb516c1c1cb0adfceeff49bef99f6a608d4f9c asyncedd <isynqquwu@proton.me> 1686092336 +0900	commit: feat(aerial): ✨ Make Edgy manage that too
+18fb516c1c1cb0adfceeff49bef99f6a608d4f9c 70ac6ff3c28d60b4b4c5d1f8af6edbff8bea0e66 asyncedd <isynqquwu@proton.me> 1686092706 +0900	commit: chore(lazy): 🔼 Sync lazy-lock
+70ac6ff3c28d60b4b4c5d1f8af6edbff8bea0e66 bdfd80775a743696a932b1c3070fefa5d3e3feea asyncedd <isynqquwu@proton.me> 1686093521 +0900	commit: feat(catppuccin): ✨ Make DAP fancier
+bdfd80775a743696a932b1c3070fefa5d3e3feea d09cbd398a7cd1789d07f25f453912f2195de05f asyncedd <isynqquwu@proton.me> 1686093696 +0900	commit: feat(catppuccin): Use catppuccin colors for nvim-notify
+d09cbd398a7cd1789d07f25f453912f2195de05f 749ad4e4cf060774ed7aba28e1c3bd9ac19d8f32 asyncedd <isynqquwu@proton.me> 1686093746 +0900	commit: feat(dropbar): ✨ Use catppuccin colors
+749ad4e4cf060774ed7aba28e1c3bd9ac19d8f32 bae385f9d163716dbc6477b93f26832517cedb84 asyncedd <isynqquwu@proton.me> 1686093884 +0900	commit: perf(catppuccin): ⚡ Dont use the alpha integration
+bae385f9d163716dbc6477b93f26832517cedb84 315a23d49e18d544582e88e04c3bb35eb6a69ba6 asyncedd <isynqquwu@proton.me> 1686095357 +0900	commit: feat(neogit): Make the BG a bit darker
