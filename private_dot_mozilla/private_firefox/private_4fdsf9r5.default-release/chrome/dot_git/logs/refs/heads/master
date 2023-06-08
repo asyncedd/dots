@@ -1,1 +1,2 @@
 0000000000000000000000000000000000000000 14d58c3031e9f27d60dede3f3686047f974cf71e Async <async@linux.(none)> 1685859231 +0900	clone: from https://github.com/asyncedd/dotted.fox
+14d58c3031e9f27d60dede3f3686047f974cf71e 265d642c45d0280414de0ff5d10c44892bbd16b0 asyncedd <isynqquwu@proton.me> 1686209372 +0900	commit: fix(flexbox): patch styles with modern flexbox
