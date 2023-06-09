@@ -1,1 +1,2 @@
 0000000000000000000000000000000000000000 4e4f646ffa569b59b3b61114d99a217d34d0eaf0 Async <async@linux.(none)> 1685858219 +0900	clone: from https://github.com/asyncedd/wezdots
+4e4f646ffa569b59b3b61114d99a217d34d0eaf0 3f0a243b451d2c53bd6ccc5ef303ff50c29abbe0 asyncedd <isynqquwu@proton.me> 1686307469 +0900	commit: perf(wezterm): fix performance from blinking bars
